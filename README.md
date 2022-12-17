@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iznnull
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python
 - 📫 Reach me at mail. iznespinosa@gmail.com
 
 <!---
