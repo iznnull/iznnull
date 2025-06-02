@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iznnull
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning go
 - 📫 Reach me at mail. iznespinosa@gmail.com
 
 <!---
